@@ -1,0 +1,1 @@
+<h1>Hola</h1><?php /**PATH /Applications/XAMPP/xamppfiles/htdocs/domotepec.v1/domotepec/resources/views/home.blade.php ENDPATH**/ ?>
